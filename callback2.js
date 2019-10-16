@@ -49,7 +49,7 @@ getEmployee(34, (err, employee) => {
                 console.log(err);
             } else {
                 console.log(`The salary to ${employeeSalary.name} is $${employeeSalary.value}`);
-            }    
+            }
         })
     }
 });
