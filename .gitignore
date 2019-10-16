@@ -1,1 +1,2 @@
-./tables
+node_modules/
+tables/*.txt
