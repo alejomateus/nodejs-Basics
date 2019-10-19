@@ -1,0 +1,25 @@
+{
+  "name": "basics-fundaments",
+  "version": "1.0.0",
+  "description": "Nodejs Course ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejomateus/nodejs-Basics.git"
+  },
+  "author": "Alejandro Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejomateus/nodejs-Basics/issues"
+  },
+  "homepage": "https://github.com/alejomateus/nodejs-Basics#readme",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
